@@ -1,1 +1,5 @@
-/* USE CSS GRID AND FLEX HERE */
+.players {
+    display: flex;
+    background-color: aqua;
+     
+}
