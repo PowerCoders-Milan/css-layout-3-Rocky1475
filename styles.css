@@ -1,5 +1,6 @@
 .players {
-    display: flex;
-    background-color: aqua;
-     
+
+    background-color: rgb(240, 238, 144);
+    column-count: 3;
+    column-width: 250px; 
 }
